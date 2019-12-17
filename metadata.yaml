@@ -1,0 +1,27 @@
+_repo: Handbuch-der-Geschichte-der-Buchdruckerkunst-Zweiter-Teil-Wiedererwachen-und-neue-Blute-der-K__60888
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lorck, Carl Berendt
+    alias: Lorck, Carl B. (Carl Berendt)
+    birthdate: 1814
+    deathdate: 1905
+    gutenberg_agent_id: '51173'
+    url: http://www.gutenberg.org/2009/agents/51173
+    wikipedia: https://de.wikipedia.org/wiki/Carl_Berendt_Lorck
+description: ''
+gutenberg_issued: '2019-12-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60888'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Z'
+- !lcsh 'Printing -- History'
+- GITenberg
+title: "Handbuch der Geschichte der Buchdruckerkunst. Zweiter Teil\r\nWiedererwachen\
+  \ und neue Blüte der Kunst. 1751-1882."
+url: http://www.gutenberg.org/ebooks/60888
