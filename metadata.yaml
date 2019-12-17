@@ -1,5 +1,8 @@
 _repo: Handbuch-der-Geschichte-der-Buchdruckerkunst-Zweiter-Teil-Wiedererwachen-und-neue-Blute-der-K__60888
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60888-h/images/cover.jpg
 creator:
   author:
     agent_name: Lorck, Carl Berendt
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51173
     wikipedia: https://de.wikipedia.org/wiki/Carl_Berendt_Lorck
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60888#Handbuch-der-Geschichte-der-Buchdruckerkunst-Zweiter-Teil-Wiedererwachen-und-neue-Blute-der-K_
 gutenberg_issued: '2019-12-09'
 gutenberg_type: Text
 identifiers:
